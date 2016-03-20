@@ -1,0 +1,18 @@
+PODS:
+  - SwiftFlow (0.2.2)
+  - SwiftFlowRecorder (0.2.2):
+    - SwiftFlow (~> 0.2.2)
+  - SwiftFlowRouter (0.2.2):
+    - SwiftFlow (~> 0.2.2)
+
+DEPENDENCIES:
+  - SwiftFlow
+  - SwiftFlowRecorder
+  - SwiftFlowRouter
+
+SPEC CHECKSUMS:
+  SwiftFlow: 1bc15300bfa69a75fc2f9f08f910247c1f12dc88
+  SwiftFlowRecorder: 68a3d504fde69c80e2001da251a102587c3ad324
+  SwiftFlowRouter: 7fbe9d64fb526d4dc1816bbd1e9485b59b4a5d89
+
+COCOAPODS: 0.39.0

@@ -3,6 +3,8 @@ use_frameworks!
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '8.0'
 
-pod 'ReSwift' '0.2.5'
-pod 'SwiftFlowRouter'
-pod 'SwiftFlowRecorder'
+target "SwiftFlowCocoaPodsTestProject" do
+  pod 'ReSwift'
+  pod 'ReSwiftRouter'
+  pod 'ReSwiftRecorder'
+end

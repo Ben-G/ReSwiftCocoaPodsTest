@@ -1,18 +1,20 @@
 PODS:
-  - SwiftFlow (0.2.2)
-  - SwiftFlowRecorder (0.2.2):
-    - SwiftFlow (~> 0.2.2)
-  - SwiftFlowRouter (0.2.2):
-    - SwiftFlow (~> 0.2.2)
+  - ReSwift (2.0.0)
+  - ReSwiftRecorder (0.3.0):
+    - ReSwift (~> 2.0)
+  - ReSwiftRouter (0.3.0):
+    - ReSwift (~> 2.0)
 
 DEPENDENCIES:
-  - SwiftFlow
-  - SwiftFlowRecorder
-  - SwiftFlowRouter
+  - ReSwift
+  - ReSwiftRecorder
+  - ReSwiftRouter
 
 SPEC CHECKSUMS:
-  SwiftFlow: 1bc15300bfa69a75fc2f9f08f910247c1f12dc88
-  SwiftFlowRecorder: 68a3d504fde69c80e2001da251a102587c3ad324
-  SwiftFlowRouter: 7fbe9d64fb526d4dc1816bbd1e9485b59b4a5d89
+  ReSwift: 7abc536a87955c34bf60de3fd32ce9a02ee3ad87
+  ReSwiftRecorder: 1b7d0c32d0b37eb211fa6828ff79c4dc7d257e11
+  ReSwiftRouter: 78f913bd3621174ce7552e4d2addadb723109293
 
-COCOAPODS: 0.39.0
+PODFILE CHECKSUM: a791a32ee0f610f50af8e55f8a1225b6a478b1fa
+
+COCOAPODS: 1.0.1
